@@ -245,7 +245,7 @@ MCP server that gives AI agents a principled way to escalate to humans when conf
 <a href="https://primeautomationsolutions.com"><img src="https://img.shields.io/badge/Work%20With%20Me-1B4D7A?style=for-the-badge&logoColor=white" alt="work with me" /></a>
 <a href="mailto:erik@primeautomationsolutions.com"><img src="https://img.shields.io/badge/Email-c9a84c?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://youtube.com/@primesworld"><img src="https://img.shields.io/badge/YouTube-Primes%20World-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+<a href="https://youtube.com/@buildorreplaced"><img src="https://img.shields.io/badge/YouTube-Build%20or%20Be%20Replaced-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
 <a href="https://twitter.com/BuildOrReplaced"><img src="https://img.shields.io/badge/Twitter-%40BuildOrReplaced-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
 <a href="https://discord.gg/ndBcSBcvQj"><img src="https://img.shields.io/badge/Discord-Build%20or%20Be%20Replaced-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32px" alt="Handshake"/>
